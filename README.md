@@ -1,21 +1,30 @@
-```md
-<div align="center">
-
+````md
 # Iarle Mozaga
 
+```txt
+iarle@homelab:~$ uptime
+
 linux • infrastructure • selfhosted
+````
 
-building and maintaining self-hosted services, linux environments and automation workflows.
+Building and maintaining:
 
-<br>
+* self-hosted services
+* linux environments
+* containerized applications
+* networking and automation workflows
 
-`docker` · `wireguard` · `nginx` · `monitoring` · `networking`
+### Stack
 
-<br><br>
+`docker` `podman` `wireguard` `nginx`
+`prometheus` `grafana` `pihole`
+`nextcloud` `immich` `matrix` `jitsi`
 
-<a href="https://iarle.sh">
-  ↳ explore my homelab / portfolio
-</a>
+---
 
-</div>
+### Website
+
+→ https://sh.iarle.com.br
+
+```
 ```
