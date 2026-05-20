@@ -6,7 +6,7 @@
 
 **Linux, infraestrutura, self-hosting e automação**.
 
-Gosto de construir ambientes estáveis, entender sistemas na prática, investigar logs, configurar serviços e manter minha própria stack rodando.
+Gosto de explorar sistemas, configurar serviços, automatizar coisas e manter minha própria stack rodando.
 
 **Infraestrutura · Containers · Redes · Open Source**
 
