@@ -1,16 +1,21 @@
-## Hi there 👋
+```md
+<div align="center">
 
-<!--
-**iarlemozaga/iarlemozaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Iarle Mozaga
 
-Here are some ideas to get you started:
+linux • infrastructure • selfhosted
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+building and maintaining self-hosted services, linux environments and automation workflows.
+
+<br>
+
+`docker` · `wireguard` · `nginx` · `monitoring` · `networking`
+
+<br><br>
+
+<a href="https://iarle.sh">
+  ↳ explore my homelab / portfolio
+</a>
+
+</div>
+```
